@@ -1,0 +1,8 @@
+
+Flask
+Pillow
+pypdf
+python-docx
+python-pptx
+openpyxl
+gunicorn
